@@ -1,0 +1,22 @@
+{
+    "name": "luckymahrus/luckyauth",
+    "version": "v1.0.0",
+    "type": "library",
+    "description": "CodeIgniter Users Authentication",
+    "keywords": ["base","codeigniter","crud","libraries","model","scaffold"],
+    "homepage": "https://github.com/luckymahrus/luckyauth",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lucky Mahrus",
+            "email": "mahrus.lukmanhakim@gmail.com",
+            "homepage": "http://luckymahrus.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.1.6"
+    },
+    "autoload": {
+        "classmap": ["dist/libraries/Luckyauth.php"]
+    }
+}
